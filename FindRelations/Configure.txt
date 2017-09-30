@@ -1,0 +1,4 @@
+User=root
+password=marcos
+AddressFile=file:\C:\Users\MARCOS\Desktop\files
+Databasename=ArchRecovery
